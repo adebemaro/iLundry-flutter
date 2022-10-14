@@ -1,0 +1,4 @@
+#Thu Oct 13 09:57:21 WAT 2022
+base.0=/Users/mobiledevelopmentevening/Desktop/flutter_morning/ilundry/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
